@@ -1,0 +1,3 @@
+   0 nano script.sh
+   1 chmod u+x script.sh
+   2 history > history.txt
